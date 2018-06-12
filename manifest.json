@@ -1,15 +1,15 @@
 {
 	"manifest_version": 2,
-	"name": "Downloads Overwrite Already Existing Files",
-	"short_name": "Downloads Overwrite Existing Files",
-	"description": "All downloads overwrite existing files instead of adding ' (1)', ' (2)', etc. Includes fix to remember folders.",
-	"version": "0.0.3",
+	"name": "Downloads Ask If Already Existing Files",
+	"short_name": "Downloads Ask If Already Existing Files",
+	"description": "If download file exists prompt user what to do, instead of adding ' (1)', ' (2)', etc. Includes fix to remember folders.",
+	"version": "0.1.3",
 	"icons": {
 		"16": "icon16.png",
 		"48": "icon48.png",
 		"128": "icon128.png"
 	},
-	"homepage_url": "https://github.com/zach-adams/downloads-overwrite-already-existing-files",
+	"homepage_url": "https://github.com/aitorforero/downloads-overwrite-already-existing-files/edit/master/manifest.json",
 	"minimum_chrome_version": "26.0.1428",
 	"background": {
 		"scripts": ["bg.js"],
